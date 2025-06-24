@@ -1,5 +1,6 @@
 > [!CAUTION]
-> CTFAK 2.0 is no longer being worked on and thus has been archived.
+> This is a fork of the original CTFAK 2.0 repo, since it is no longer being worked on and thus has been archived.
+> Binaries are available, but not guaranteed to work. 
 
 # Welcome to CTFAK 2.0!
 By Kostya and Yunivers
@@ -25,7 +26,8 @@ CTFAK 2.3 is more unstable than CTFAK 2.2, thus this README will only be referri
 
 # Installation
 > [!NOTE]  
-> Due to unforseen circumstances, Actions are no longer being offered. See [Compilation](https://github.com/CTFAK/CTFAK2.0#compilation)
+> Due to unforseen circumstances, the original Actions and Artifacts are no longer being offered. See [Compilation](https://github.com/CTFAK/CTFAK2.0#compilation)
+> However, you can choose to download the artifacts [here](https://github.com/dancing-computer/CTFAK2.0/actions/runs/15841756652) or take a look at [the releases](https://github.com/dancing-computer/CTFAK2.0/releases/tag/2.0.0).
 
 # Compilation
 ## Dependencies
